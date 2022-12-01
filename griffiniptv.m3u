@@ -45,9 +45,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafa
 #EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Toons and Kids (EN)",Forever Kids | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0aF3SA.png" group-title="Toons and Kids (EN)",Toonami Aftermath - East
-https://asp6.toonamiaftermath.com/livehttporigin/est/Cbes8p-8PlyiP-chunklist.m3u8
+https://asp6.toonamiaftermath.com/livehttporigin/est/LQSKPY-9mHgBS-chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0aF3SA.png" group-title="Toons and Kids (EN)",Toonami Aftermath - West
-https://asp6.toonamiaftermath.com/livehttporigin/est/Cbes8p-ApyeI9-chunklist.m3u8?streamDelay=180
+https://asp6.toonamiaftermath.com/livehttporigin/est/LQSKPY-CB38aD-playlist.m3u8?streamDelay=180
 #EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Toons and Kids (EN)",Garfield and Friends | Pluto TV USA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Toons and Kids (EN)",No Parents Allowed | Pluto TV USA
@@ -160,8 +160,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="TV Series (PT)",Jeannie é um Gênio | link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KVnKtsL.png" group-title="TV Series (PT)",Nashville | Brasil
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="TV Series (PT)",Plantão Noturno - The Night Shift | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="TV Series (PT)",Plantão Noturno - The Night Shift | link 2
