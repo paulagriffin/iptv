@@ -76,6 +76,10 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="Toons and Kids (PT)",Kids | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/140d9093b2506a4dd66e9cccc011f416.webp" group-title="Toons and Kids (PT)",Uni TV
+https://stmv1.srvif.com/unifm/unifm/chunklist_w1123198165.m3u8
+
+
 
 ##### Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ############# Toons and Kids (SPA) ######
 #EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="http://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Toons and Kids (SPA)",Babar | Pluto TV Argentina
@@ -174,3 +178,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV Series (PT)",Canal 29 | Brasil
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1011468363.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="TV Series (PT)",Rede Clone | Brasil
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w207691865.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="TV Series (PT)",Vintage TV | Brasil
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w2016264402.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2facd9de3a888b8015197f7e7adfb318.webp" group-title="TV Series (PT)",Classique TV Séries | Brasil
+https://stmv1.srvif.com/classeries/classeries/chunklist_w679211102.m3u8
