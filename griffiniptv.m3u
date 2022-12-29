@@ -12,6 +12,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c55
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/featuredImage.jpg" group-title="Animes (PT)",Death Note | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/featuredImage.jpg" group-title="Animes (PT)",Beyblade | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/featuredImage.jpg" group-title="Animes (PT)",One Piece | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://scontent.fpoo1-1.fna.fbcdn.net/v/t1.6435-9/128382489_104146451549356_6235143697977954100_n.png?stp=dst-png_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ituUkAngkC4AX9cVPcD&_nc_ht=scontent.fpoo1-1.fna&oh=00_AfCHDqICDKsZZdR0mKADPLPVLCdfDonG95QYlaDVjL2nWA&oe=63988DFA" group-title="Animes (PT)",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w2144978106.m3u8
 
@@ -58,6 +62,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="Toons and Kids (PT)",As Aventuras de Jackie Chan | link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6202a7fcfb1b100008811f54" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Toons and Kids (PT)",Rocket Power | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Toons and Kids (PT)",Cocoricó | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="Toons and Kids (PT)",Nick Clássico | Pluto TV Brasil 
@@ -76,8 +82,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="Toons and Kids (PT)",Kids | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/140d9093b2506a4dd66e9cccc011f416.webp" group-title="Toons and Kids (PT)",Uni TV
-https://stmv1.srvif.com/unifm/unifm/chunklist_w1123198165.m3u8
 
 
 
@@ -177,10 +181,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a
 #EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="TV Series (PT)",Séries | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV Series (PT)",Canal 29 | Brasil
-https://stmv1.srvif.com/canal29/canal29/chunklist_w1011468363.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="TV Series (PT)",Rede Clone | Brasil
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w207691865.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="TV Series (PT)",Vintage TV | Brasil
-https://stmv1.srvif.com/webvintage/webvintage/chunklist_w2016264402.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2facd9de3a888b8015197f7e7adfb318.webp" group-title="TV Series (PT)",Classique TV Séries | Brasil
 https://stmv1.srvif.com/classeries/classeries/chunklist_w679211102.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44fae4d3394877ed0880e78b4563450d.webp" group-title="TV Series (PT)",TV Manchete | Brasil
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w780109959.m3u8
+
+##### Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) ############# Movies (PT) #############
