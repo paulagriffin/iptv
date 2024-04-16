@@ -124,6 +124,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a
 #EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="TV Series (PT)",Séries | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV Series (PT)",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="TV Series (PT)",Vintage TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="TV Series (PT)",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
+
 
 ##### Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) ############# Movies (EN) #############
 #EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Movies (EN)",Paramount Movie Channel | USA
@@ -226,8 +235,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a63
 #EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="Toons and Kids (PT)",Kids | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Toons and Kids (PT)",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 
 ##### Sports ############# Sports ############# Sports ############# Sports ############# Sports ############# Sports ############# Sports ############# Sports ############# Sports #############
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/821515cdee6dbc48d6de1256e6fadbdd.webp" group-title="Sports",Snowboarder
+https://amg13231-actve-amg13231c3-plex-us-1820.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-plexus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23c89836985d9313794d8a1d495a4685.webp" group-title="Sports",Surfer
+https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
 
 
 ##### General ############# General ############# General ############# General ############# General ############# General ############# General (PT) ############# General ############# General #############
@@ -248,3 +266,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cab
 
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="General",Dogs 24/7 | Pluto TV USA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b329e0a7b9d8872aeb49ceb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=636&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="General",Rede Brasil | Brazil
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
